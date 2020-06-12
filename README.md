@@ -5,3 +5,5 @@ hubo limpieza de datos? SI
 Grafico 1: Por Edad
 Grafico 2 : Por Sexo
 Grafico 3: Por  test de prueba
+Link: https://www.youtube.com/watch?v=eiR0-7idVtA
+
